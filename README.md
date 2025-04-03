@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/961132f9-86f4-4bc0-9cf1-58bed664a4b8)## Hi there 👋
+
 
 
 # 👋 Hi, I'm Panitta Nika!  

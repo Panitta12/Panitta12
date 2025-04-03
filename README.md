@@ -1,16 +1,39 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/961132f9-86f4-4bc0-9cf1-58bed664a4b8)## Hi there 👋
 
-<!--
-**Panitta12/Panitta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Panitta Nika!  
+### 💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠️ Technical Skills:
+- **Frontend:** HTML, CSS, JavaScript (Beginner), React.js (TypeScript - Intermediate)  
+- **Backend:** PHP (Intermediate), Python (Flask - Intermediate)  
+- **Database:** MySQL (Intermediate)  
+- **IoT:** Raspberry Pi, Arduino (Beginner)  
+- **Tools:** VS Code, PuTTY, GitHub, Fork, DBeaver (Advanced)  
+- **Frameworks:** WordPress (Beginner)  
+
+---
+
+## 📚 Education:
+🎓 **Rajamangala University of Technology Srivijaya**  
+**Bachelor of Science (B.S.) in Computer Technology**  
+📅 Expected Graduation: 2024 | **GPA: 3.60**  
+
+---
+
+## 💼 Internship:
+🚀 **Full Stack Developer Intern | JOS Technology Co., Ltd.** (4 Months)  
+- Developed a **System Checking Vehicle** for the **Transportation Management System (TMS)** to improve vehicle inspection efficiency.  
+- Built the system using **React.js, Python Flask, and MySQL**.  
+- Implemented **RESTful APIs** to optimize system performance and deployment.  
+
+---
+
+### 📫 Connect with me:
+📩 Email: Panitta3374@gmail.com  
+🌍 Location: Thailand  
+
+
